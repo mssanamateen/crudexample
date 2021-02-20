@@ -1,0 +1,2 @@
+# crudexample
+django crud example
